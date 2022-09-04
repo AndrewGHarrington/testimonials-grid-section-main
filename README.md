@@ -31,8 +31,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [My Solution](https://www.frontendmentor.io/solutions/tesitmonials-grid-semantic-html-5-css-flexbox-mobile-first-hs-GRfmN3T)
+- Live Site URL: [My Live Site](https://andrewgharrington.github.io/testimonials-grid-section-main/)
 
 ## My process
 

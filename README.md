@@ -58,7 +58,7 @@ I'd like to do a deeper dive on flexbox to get a good understanding on how all o
 ## Author
 
 - Website - [Andrew Harrington](https://github.com/AndrewGHarrington)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- Frontend Mentor - [@AndrewGHarrington](https://www.frontendmentor.io/profile/AndrewGHarrington)
 
 ## Acknowledgments
 
